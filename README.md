@@ -1,2 +1,3 @@
-# rapid-bug-tracker-ldom
-Automated issue comment bot repository
+# Rapid Bug Tracker Ldom
+
+Automated issue comment bot repository.
